@@ -21,5 +21,4 @@ Benefits
 
 
 ##### References
-Martin Fowler - [Repository](https://martinfowler.com/eaaCatalog/repository.html)
-Martin Fowler - [ Unit of Work](https://martinfowler.com/eaaCatalog/unitOfWork.html)
+Martin Fowler - [Repository](https://martinfowler.com/eaaCatalog/repository.html) - [ Unit of Work](https://martinfowler.com/eaaCatalog/unitOfWork.html)
